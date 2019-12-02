@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="low_asterisk">&#x2731;</string>
 </resources>
